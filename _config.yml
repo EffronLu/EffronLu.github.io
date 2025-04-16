@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "About me"
+title                    : "Tianyu Lu"
 title_separator          : "-"
 name                     : "Tianyu Lu"
 description              : &description "personal description"
