@@ -47,10 +47,13 @@ Example: editing a markdown file for a talk
 Contact
 ------
 Email: t.lu@qub.ac.uk
+
 Web: 
+
 Tel: 
 
 Queen's University of Belfast
 
 Belfast BT2 7JD
+
 United Kingdom
