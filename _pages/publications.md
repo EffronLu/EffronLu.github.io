@@ -9,7 +9,6 @@ His citation profile in [Google Scholar](https://scholar.google.com/citations?us
 
 Please [email me](mailto:t.lu@qub.ac.uk) if you require a copy of the paper.
 
-<sup>*</sup> denotes corresponding author.
 
 
 
@@ -29,7 +28,7 @@ Please [email me](mailto:t.lu@qub.ac.uk) if you require a copy of the paper.
 * Kunliang Yu, Liquan Chen, Yu Wang, and **Tianyu Lu**, “A Channel Coding Information Hiding Algorithm for Images Based on Uniform Cyclic Shift,”Multimedia Tools and Applications, vol. 81, no. 8, pp. 11279–11300, 2022.  [link](https://link.springer.com/article/10.1007/s11042-021-12090-8)
 * Liquan Chen, Yi Lu, **Tianyu Lu**, Zhaofa Chen, and Aiqun Hu,  
 “Wireless Key Generation Scheme Based on Random Permutation and Perturbation in Quasistatic Environments,”Wireless Communications and Mobile Computing, vol. 2023, article 6980619, 2023.[link](https://www.hindawi.com/journals/wcmc/2023/6980619/)
-
+* Liquan Chen, Yufan Song, Wanting Ma, **Tianyu Lu**, Peng Zhang, and Liang Chen, “A Powerful Adversary Model and Corresponding OTP Time Slot Allocation Scheme in RIS-Assisted Physical Layer Key Generation,”EURASIP Journal on Wireless Communications and Networking, vol. 2024, no. 1, article 54, 2024.[link](https://jwcn-eurasipjournals.springeropen.com/articles/10.1186/s13638-024-02338-w)
 
 # Conference Paper
 * **Tianyu Lu**, Liquan Chen, Junqing Zhang, Chen Chen, and Trung Q. Duong, “Reconfigurable Intelligent Surface-Assisted Key Generation for Millimeter Wave Communications,”Proceedings of the 2023 IEEE Wireless Communications and Networking Conference (WCNC), pp. 1–6, 2023.[IEEE](https://ieeexplore.ieee.org/document/10119128),  
