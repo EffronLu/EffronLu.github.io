@@ -48,5 +48,4 @@ Contact
 ------
 Email: t.lu@qub.ac.uk
 Queen's University of Belfast
-Belfast BT2 7JD
 United Kingdom
