@@ -13,11 +13,6 @@ Please [email me](mailto:t.lu@qub.ac.uk) if you require a copy of the paper.
 
 {% include base_path %}
 
-<!-- # Dataset and Code
-
-1. [Code: FewSense paper](https://github.com/Guolin-Yin/FewSense){:target="_blank"}. Guolin Yin, Junqing Zhang<sup>*</sup>, **Guanxiong Shen**, and Yingying Chen, “FewSense, Towards a Scalable and Cross-Domain Wi-Fi Sensing System Using Few-Shot Learning”, _IEEE Transactions on Mobile Computing_, accepted [arXiv](https://arxiv.org/abs/2203.02014){:target="_blank"},[IEEE](https://ieeexplore.ieee.org/document/9947336){:target="_blank"}
-1. [Code and Dataset: LoRa RFFI Paper](https://github.com/gxhen/LoRa_RFFI){:target="_blank"}. **Guanxiong Shen**, Junqing Zhang<sup>*</sup>, Alan Marshall, and Joseph Cavallaro, “Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa,” _IEEE Transactions on Information Forensics and Security_, vol. 17, pp. 774 - 787, Feb. 2022. [IEEE](https://ieeexplore.ieee.org/abstract/document/9715147){:target="_blank"}, [arXiv](https://arxiv.org/abs/2107.02867){:target="_blank"}
-1. [Dataset: LoRa RFFI Paper](https://ieee-dataport.org/open-access/lorarffidataset){:target="_blank"}, **Guanxiong Shen**, Junqing Zhang<sup>*</sup>, Alan Marshall, and Joseph Cavallaro, “Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa,” _IEEE Transactions on Information Forensics and Security_, vol. 17, pp. 774 - 787, Feb. 2022. [IEEE](https://ieeexplore.ieee.org/abstract/document/9715147){:target="_blank"}, [arXiv](https://arxiv.org/abs/2107.02867){:target="_blank"} -->
 
 # Preprint
 
