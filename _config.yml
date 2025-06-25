@@ -218,7 +218,7 @@ collections:
     permalink: /:collection/:path/
   publications:
     output: true
-    permalink: /:publication/:path/
+    permalink: /:collection/:path/
   portfolio:
     output: false
     permalink: /:collection/:path/
@@ -261,7 +261,7 @@ defaults:
       path: ""
       type: publications
     values:
-      layout: single
+      layout: default
       author_profile: true
       share: true
       comments: true
