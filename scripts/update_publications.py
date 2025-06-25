@@ -4,7 +4,7 @@ from scholarly import scholarly
 # Your Google Scholar ID
 SCHOLAR_ID = "EyknLkwAAAAJ"
 OUTPUT_DIR = "_publications"
-NUM_PUBS = 5
+NUM_PUBS = 15
 
 # Create output directory if not exists
 os.makedirs(OUTPUT_DIR, exist_ok=True)
