@@ -11,40 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Southeast University, 2019
-
+* B.s. in Electronics and communication engineering, Nanjing University of Posts and Telecommunications, Sep. 2012 - Jun. 2016
+* Ph.D in Communication and signal processing, Nanjing University of Posts and Telecommunications, Sep. 2016 - Jun. 2019
+* Ph.D in Cyber science and engineering, Southeast University, Sep. 2019 - Mar. 2024.
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Postdoctoral Fellow, Queen's University Belfast，Mar. 2025 - Present
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Project
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* National Key Research and Development Program of China, Joint research of IoT security system and key
+technologies based on the quantum key (No. 2020YFE0200600): (Work in progress) Key generation establishes
+cryptographic keys between legitimate users by extracting randomness from their common channels. The application of Wi-Fi
+protocol-based key generation ensures the secure transmission of quantum keys from the base station to the user’s equipment.
+* National Natural Science Foundation of China, Research on quantum key distribution-based security
+technology for 5G Internet of Things (No. U22B2026): (Work in progress) The implementation of a 5G protocol-based
+key generation scheme for secure quantum key transmission over wireless channels.
   
 Talks
 ======
@@ -52,12 +35,4 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
