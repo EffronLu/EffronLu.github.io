@@ -26,7 +26,15 @@ Getting started
 
 Site-wide configuration
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+* **Technical Reviewer** (Journal): IEEE Transactions on Information Forensics and Security, IEEE Transactions on Mobile
+Computing, IEEE Transactions on Signal Processing, IEEE Transactions on Communications, IEEE Transactions on Wireless
+Communications, IEEE Wireless Communications Letters, IEEE Communications Letters, IEEE Internet of Things Journal,
+EURASIP Journal on Wireless Communications and Networking, Science China-Information Sciences. Please check my review
+record at Publons.
+* **Technical Reviewer** (Conference): IEEE Wireless Communications and Networking Conference (WCNC) 2023, IEEE
+International Conference on Computer Communications (INFOCOM) 2023, IEEE Global Communications Conference
+(GLOBECOM) 2023, IEEE International Conference on Communications (ICC) 2022, 2021, IEEE Conference on Vehicular
+Technology (VTC) 2022, 2023.
 
 Create content & metadata
 ------
