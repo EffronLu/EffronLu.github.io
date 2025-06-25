@@ -1,36 +1,36 @@
 ---
-layout: archive
+layout: default
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">His citation profile in <a href="{{site.author.googlescholar}}">Google Scholar</a>.</div>
+  <div class="wordwrap">
+    His citation profile in <a href="{{site.author.googlescholar}}" target="_blank">Google Scholar</a>.
+  </div>
 {% endif %}
 
-{% include base_path %}
+{% assign pubs = site.publications | sort: "date" | reverse %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
+<h2>Recent Publications</h2>
+<ul class="publications-list">
+  {% for pub in pubs %}
+    <li>
+      <strong>
+        {% if pub.paperurl %}
+          <a href="{{ pub.paperurl }}" target="_blank">{{ pub.title }}</a>
+        {% else %}
+          {{ pub.title }}
+        {% endif %}
+      </strong><br>
+      {% if pub.venue %}
+        <em>{{ pub.venue }}</em>,
       {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
+      {{ pub.date | date: "%Y" }}.
+      {% if pub.citation %}
+        <br><small>{{ pub.citation }}</small>
+      {% endif %}
+    </li>
   {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
-
+</ul>
