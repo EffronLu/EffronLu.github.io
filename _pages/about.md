@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Tianyu Lu is the 
-
+Tianyu Lu is currently a postdoctoral fellow at Queen's University Belfast. He received his PhD from Southeast University, China, in 2024 under the supervision of Prof Liquan Chen and Dr [Junqing Zhang](https://junqing-zhang.github.io/).
 
 Professional Activities
 ------
