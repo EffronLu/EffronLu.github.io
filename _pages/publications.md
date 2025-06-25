@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-His citation profile in [Google Scholar](https://scholar.google.com/citations?user=n4hAXN8AAAAJ&hl=en).
+His citation profile in [Google Scholar](https://scholar.google.com/citations?user=EyknLkwAAAAJ&hl=en).
 
 Please [email me](mailto:Guanxiong.Shen@liverpool.ac.uk) if you require a copy of the paper.
 
