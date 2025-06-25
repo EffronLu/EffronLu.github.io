@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.s. in Electronics and communication engineering, Nanjing University of Posts and Telecommunications, Sep. 2012 - Jun. 2016
-* Ph.D in Communication and signal processing, Nanjing University of Posts and Telecommunications, Sep. 2016 - Jun. 2019
+* B.S. in Electronics and communication engineering, Nanjing University of Posts and Telecommunications, Sep. 2012 - Jun. 2016
+* M.S. in Communication and signal processing, Nanjing University of Posts and Telecommunications, Sep. 2016 - Jun. 2019
 * Ph.D in Cyber science and engineering, Southeast University, Sep. 2019 - Mar. 2024.
 
 Work experience
