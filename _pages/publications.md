@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+{% include base_path %}
 His citation profile in [Google Scholar](https://scholar.google.com/citations?user=EyknLkwAAAAJ&hl=en).
 
 Please [email me](mailto:t.lu@qub.ac.uk) if you require a copy of the paper, or copy-paste this address: **t.lu@qub.ac.uk**.
