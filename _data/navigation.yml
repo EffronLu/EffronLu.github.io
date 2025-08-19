@@ -13,12 +13,14 @@ main:
 
  # - title: "talks"
  #  url: /talks/
+  - title: "Professional Activities"
+    url: /professional/
 
-  - title: "CV"
+  - title: "Education and Work Experience"
     url: /cv/
 
-  - title: "Blog Posts"
-    url: /year-archive/ 
+  #- title: "Blog Posts"
+  #  url: /year-archive/ 
 
   # - title: "Teaching"
   #  url:# /teaching/    

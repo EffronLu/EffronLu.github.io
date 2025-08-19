@@ -1,0 +1,19 @@
+current directory: /Users/lutianyu/Desktop/EffronLu.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/lutianyu/.rbenv/versions/3.2.4/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/lutianyu/Desktop/EffronLu.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250819-97769-2gy4le sitelibdir\=./.gem.20250819-97769-2gy4le clean
+
+current directory: /Users/lutianyu/Desktop/EffronLu.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250819-97769-2gy4le sitelibdir\=./.gem.20250819-97769-2gy4le
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/lutianyu/Desktop/EffronLu.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250819-97769-2gy4le sitelibdir\=./.gem.20250819-97769-2gy4le install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20250819-97769-2gy4le/racc
+
+current directory: /Users/lutianyu/Desktop/EffronLu.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250819-97769-2gy4le sitelibdir\=./.gem.20250819-97769-2gy4le clean
