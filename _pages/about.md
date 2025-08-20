@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Tianyu Lu is currently a postdoctoral fellow at Queen's University Belfast. He received his PhD from Southeast University, China, in 2024 under the supervision of Prof [Liquan Chen](https://cyber.seu.edu.cn/clq1/list.htm), with additional mentorship from [Junqing Zhang](https://junqing-zhang.github.io/). His research interests include physical layer security, key generation, and secure wireless communications for Internet of Things (IoT) and future communication systems. He is also exploring integrated sensing and communications (ISAC) techniques for joint security and sensing applications.
+Tianyu Lu is currently a research fellow at Queen's University Belfast. He received his PhD from Southeast University, China, in 2024 under the supervision of Prof [Liquan Chen](https://cyber.seu.edu.cn/clq1/list.htm), with additional mentorship from [Junqing Zhang](https://junqing-zhang.github.io/). His research interests include physical layer security, key generation, and secure wireless communications for Internet of Things (IoT) and future communication systems. He is also exploring integrated sensing and communications (ISAC) techniques for joint security and sensing applications.
 
 Please find more information from his
 
