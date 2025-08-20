@@ -8,13 +8,13 @@ author_profile: true
 
 {% include base_path %}
 
-## Work experience
+## Work Experience
 ### Research Fellow
 - Mar. 2025 - Present
 - Institution: School of Electronics, Electrical Engineering And Computer Science, Queen’s University Belfast, UK
 
 
-## Education
+## Education Experience
 ### Doctor of Philosophy in Cyber Science and Engineering
 - Sep. 2019 - Mar. 2024.
 - Institution: Southeast University
